@@ -31,7 +31,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/market.json"
+                 "value":"https:\/\/play.workadventu.re\/_\/global\/julzil.github.io\/workadventure\/market.json"
                 }],
          "type":"tilelayer",
          "visible":true,

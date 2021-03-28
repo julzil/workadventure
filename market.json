@@ -24,7 +24,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/map.json"
+                 "value":"https:\/\/play.workadventu.re\/_\/global\/julzil.github.io\/workadventure\/map.json"
                 }],
          "type":"tilelayer",
          "visible":true,
